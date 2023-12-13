@@ -13,9 +13,9 @@
 
 ### OpenCola syrup:
 
-* 7X formula: 2.00 tsp.
-* 75% phosphoric acid or citric acid: 3.50 tsp.
+* 7X formula: 9.85 ml
+* 75% phosphoric acid or citric acid: 17.25 ml
 * water: 2.28 l
 * plain granulated white table sugar: 2.36 kg
-* caffeine (optional): 0.50 tsp.
+* caffeine (optional): 2.46 ml
 * caramel color: 30.0 ml
